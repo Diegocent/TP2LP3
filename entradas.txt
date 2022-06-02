@@ -1,0 +1,39 @@
+car auto01 izq
+
+car auto02 izq
+
+car auto03 izq
+
+car auto04 izq
+
+car auto05 izq
+
+car auto06 izq
+
+car auto07 der
+
+car auto08 der
+
+car auto09 der
+
+car auto10 der
+
+car auto11 der
+
+car auto12 der
+
+car auto13 der
+
+car auto14 izq
+
+car auto15 izq
+
+car auto16 izq
+
+car auto17 izq
+
+car auto18 izq
+
+car auto19 der
+
+car auto20 der
